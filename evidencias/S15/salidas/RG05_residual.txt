@@ -1,0 +1,33 @@
+  id  Valor  Valor residual                          Decisión  Reducción  Reducción %
+R-01     12               6 Mitigar y asumir con contingencia          6         50.0
+R-02     12               6                           Mitigar          6         50.0
+R-03     16               8                           Mitigar          8         50.0
+R-04     16               9                           Mitigar          7         43.8
+R-05     12               8                           Mitigar          4         33.3
+R-06     16               8              Transferir y mitigar          8         50.0
+R-07     16               8                           Mitigar          8         50.0
+R-08     20              10                  Evitar y mitigar         10         50.0
+R-09      9               6                           Mitigar          3         33.3
+R-10     12               6                           Mitigar          6         50.0
+R-11     20              10                           Mitigar         10         50.0
+R-12     16               8                           Mitigar          8         50.0
+R-13     12               6                           Mitigar          6         50.0
+R-14      6               4                           Mitigar          2         33.3
+
+Valor inicial agregado: 195
+Valor residual agregado: 103
+Reducción estimada: 92 puntos (47.2%)
+El agregado describe el cambio en la escala ordinal. No es una pérdida monetaria.
+
+Residuales > 6 con aceptación formal pendiente (8)
+  id  Valor residual                                        ¿Quién acepta el residual?
+R-03               8                                                    Jefatura de TI
+R-04               9                                                    Jefatura de TI
+R-05               8                              Jefatura de Operaciones de Farmacias
+R-06               8                             Gerencia de Administración y Finanzas
+R-07               8                                                    Jefatura de TI
+R-08              10 Responsable de Protección de Datos y decisión de Gerencia General
+R-11              10                                                  Gerencia General
+R-12               8                                                    Jefatura de TI
+
+Riesgos > 6 sin señal o umbral: 0

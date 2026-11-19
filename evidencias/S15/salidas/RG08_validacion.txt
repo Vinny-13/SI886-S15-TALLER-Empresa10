@@ -1,0 +1,5 @@
+1. Cobertura: 9 de 9 categorías requeridas y un riesgo transversal de ejecución.
+2. Valoración: los 14 riesgos tienen fuente e interpretación separada para P e I. El control automático verifica campos; el contraste documental está en RG02 y en el informe.
+3. Tratamiento: 13 de 13 riesgos > 6 con acción, cargo, plazo, señal y umbral.
+Comprobación adicional: trazabilidad de objetivos y proyectos en las 14 filas, con codificación local P01–P04.
+Problemas y mejoras: ratificar criterios y dueños, reconciliar 34 y 23 locales, validar el BIA y registrar evidencia de la instancia SimpleRisk y las URL del repositorio del equipo.
